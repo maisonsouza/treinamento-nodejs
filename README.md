@@ -1,2 +1,13 @@
-# treinamento-nodejs
-Treinamento NodeJs
+# Treinamento NodeJs
+
+## O que é NodeJs ?
+```
+Runtime Javascript
+```
+
+## Características
+- Thread única
+
+## 
+
+
